@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:26",
+  "updated_at": "28.11.2026 20:27",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -8,7 +8,7 @@
           "home": "Gaziantep",
           "away": "Amed SFK",
           "score": "0 - 2",
-          "detail": "CANLI 70'",
+          "detail": "CANLI 71'",
           "live": true
         },
         {
@@ -154,7 +154,7 @@
           "home": "Torino",
           "away": "Lazio",
           "score": "0 - 0",
-          "detail": "CANLI 24'",
+          "detail": "CANLI 25'",
           "live": true
         },
         {
