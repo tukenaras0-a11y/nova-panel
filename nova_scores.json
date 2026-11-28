@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:56",
+  "updated_at": "28.11.2026 21:58",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "2 - 2",
-          "detail": "CANLI 68'",
+          "detail": "CANLI 70'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -241,7 +241,8 @@
             "26' João Gomes (Goal)",
             "38' João Gomes (Yellow Card)",
             "55' John McGinn (Yellow Card)",
-            "56' Leif Davis (Goal - Header)"
+            "56' Leif Davis (Goal - Header)",
+            "69' Emersonn (Yellow Card)"
           ],
           "live": true
         },
@@ -296,7 +297,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 66'",
+          "detail": "CANLI 68'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -305,7 +306,8 @@
             "41' Julián Álvarez (Goal)",
             "43' Marc Pubill (Yellow Card)",
             "48' Buba Sangaré (Goal)",
-            "54' Buba Sangaré (Yellow Card)"
+            "54' Buba Sangaré (Yellow Card)",
+            "67' Roy Revivo (Yellow Card)"
           ],
           "live": true
         },
@@ -431,7 +433,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 2",
-          "detail": "CANLI 65'",
+          "detail": "CANLI 67'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
@@ -439,7 +441,8 @@
             "45'+2' Ansgar Knauff (Goal)",
             "49' Atakan Karazor (Yellow Card)",
             "53' Luca Jaquez (Goal - Header)",
-            "62' Younes Ebnoutalib (Goal)"
+            "62' Younes Ebnoutalib (Goal)",
+            "64' Robin Koch (Yellow Card)"
           ],
           "live": true
         },
