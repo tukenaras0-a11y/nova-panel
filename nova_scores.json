@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 19:51",
+  "updated_at": "28.11.2026 19:52",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -95,7 +95,7 @@
           "home": "Man Utd",
           "away": "Brentford",
           "score": "0 - 4",
-          "detail": "CANLI 90'+3'",
+          "detail": "CANLI 90'+4'",
           "live": true
         },
         {
@@ -121,7 +121,7 @@
           "home": "Málaga",
           "away": "Athletic",
           "score": "2 - 4",
-          "detail": "CANLI 75'",
+          "detail": "CANLI 76'",
           "live": true
         },
         {
