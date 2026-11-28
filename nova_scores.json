@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:18",
+  "updated_at": "28.11.2026 22:19",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "2 - 2",
-          "detail": "CANLI 90'",
+          "detail": "CANLI 90'+1'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -243,7 +243,8 @@
             "55' John McGinn (Yellow Card)",
             "56' Leif Davis (Goal - Header)",
             "69' Emersonn (Yellow Card)",
-            "84' Matty Cash (Yellow Card)"
+            "84' Matty Cash (Yellow Card)",
+            "90' Sasa Lukic (Yellow Card)"
           ],
           "live": true
         },
@@ -298,7 +299,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 88'",
+          "detail": "CANLI 89'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -435,7 +436,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 2",
-          "detail": "CANLI 87'",
+          "detail": "CANLI 88'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
