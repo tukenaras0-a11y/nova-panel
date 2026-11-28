@@ -1,29 +1,217 @@
 {
-  "updated_at": "28.11.2026 18:22",
+  "updated_at": "28.11.2026 18:27",
   "leagues": [
     {
       "name": "Süper Lig",
-      "matches": []
+      "matches": [
+        {
+          "home": "Samsunspor",
+          "away": "Genclerbirli",
+          "score": "3 - 1",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Gaziantep",
+          "away": "Amed SFK",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        }
+      ]
     },
     {
       "name": "Şampiyonlar Ligi",
-      "matches": []
+      "matches": [
+        {
+          "home": "Sabah",
+          "away": "Barcelona",
+          "score": "1 - 4",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Slavia Prague",
+          "away": "Villarreal",
+          "score": "0 - 1",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Atlético",
+          "away": "Viking FK",
+          "score": "2 - 0",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Club Brugge",
+          "away": "Liverpool",
+          "score": "0 - 3",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Inter Milan",
+          "away": "Stuttgart",
+          "score": "2 - 0",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Lille",
+          "away": "Bayern",
+          "score": "2 - 1",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "PSG",
+          "away": "AS Roma",
+          "score": "2 - 2",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Shakhtar",
+          "away": "Fenerbahce",
+          "score": "0 - 1",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Sporting",
+          "away": "Man Utd",
+          "score": "2 - 2",
+          "detail": "FT",
+          "live": false
+        }
+      ]
     },
     {
       "name": "Premier Lig",
-      "matches": []
+      "matches": [
+        {
+          "home": "Leeds",
+          "away": "Coventry",
+          "score": "0 - 0",
+          "detail": "27'",
+          "live": true
+        },
+        {
+          "home": "Man Utd",
+          "away": "Brentford",
+          "score": "0 - 1",
+          "detail": "28'",
+          "live": true
+        },
+        {
+          "home": "Ipswich",
+          "away": "Aston Villa",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        }
+      ]
     },
     {
       "name": "La Liga",
-      "matches": []
+      "matches": [
+        {
+          "home": "Betis",
+          "away": "Rayo",
+          "score": "0 - 1",
+          "detail": "FT",
+          "live": false
+        },
+        {
+          "home": "Málaga",
+          "away": "Athletic",
+          "score": "0 - 0",
+          "detail": "11'",
+          "live": true
+        },
+        {
+          "home": "Elche",
+          "away": "Atlético",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Alavés",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        }
+      ]
     },
     {
       "name": "Serie A",
-      "matches": []
+      "matches": [
+        {
+          "home": "Frosinone",
+          "away": "Parma",
+          "score": "2 - 0",
+          "detail": "69'",
+          "live": true
+        },
+        {
+          "home": "Torino",
+          "away": "Lazio",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        },
+        {
+          "home": "Inter Milan",
+          "away": "Genoa",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        }
+      ]
     },
     {
       "name": "Bundesliga",
-      "matches": []
+      "matches": [
+        {
+          "home": "Cologne",
+          "away": "Elversberg",
+          "score": "3 - 0",
+          "detail": "HT",
+          "live": true
+        },
+        {
+          "home": "Hamburg",
+          "away": "Bayern",
+          "score": "0 - 0",
+          "detail": "HT",
+          "live": true
+        },
+        {
+          "home": "Mainz",
+          "away": "Union Berlin",
+          "score": "0 - 1",
+          "detail": "HT",
+          "live": true
+        },
+        {
+          "home": "Paderborn",
+          "away": "Schalke",
+          "score": "3 - 0",
+          "detail": "HT",
+          "live": true
+        },
+        {
+          "home": "Stuttgart",
+          "away": "Frankfurt",
+          "score": "VS",
+          "detail": "Scheduled",
+          "live": false
+        }
+      ]
     }
   ]
 }
