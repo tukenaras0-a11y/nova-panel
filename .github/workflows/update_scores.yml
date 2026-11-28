@@ -25,8 +25,8 @@ jobs:
               ("ger.1", "Bundesliga")
           ]
           now = datetime.utcnow() + timedelta(hours=3)
-          d1 = (now - timedelta(days=2)).strftime("%Y%m%d")
-          d2 = (now + timedelta(days=2)).strftime("%Y%m%d")
+          d1 = (now - timedelta(days=3)).strftime("%Y%m%d")
+          d2 = (now + timedelta(days=3)).strftime("%Y%m%d")
           out = {"updated_at": now.strftime("%d.%m.%Y %H:%M"), "leagues": []}
           base = "https://" + "://espn.com" + "/apis/site/v2/sports/soccer/"
 
@@ -38,8 +38,10 @@ jobs:
                   with urllib.request.urlopen(req, timeout=10) as r:
                       data = json.loads(r.read().decode("utf-8"))
                   for ev in data.get("events", []):
-                      comps = ev.get("competitions", [{}])
-                      cs = comps.get("competitors", [])
+                      comps_list = ev.get("competitions", [])
+                      if not comps_list:
+                          continue
+                      cs = comps_list.get("competitors", [])
                       if len(cs) >= 2:
                           home = next((c for c in cs if c.get("homeAway") == "home"), cs)
                           away = next((c for c in cs if c.get("homeAway") == "away"), cs)
