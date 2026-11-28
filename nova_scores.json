@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:40",
+  "updated_at": "28.11.2026 21:41",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 2",
-          "detail": "CANLI 52'",
+          "detail": "CANLI 53'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -294,7 +294,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 50'",
+          "detail": "CANLI 51'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -374,7 +374,7 @@
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "1 - 2",
-          "detail": "CANLI 81'",
+          "detail": "CANLI 82'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
@@ -432,7 +432,8 @@
           "events": [
             "42' Grischa Prömel (Goal)",
             "45' Luca Jaquez (Yellow Card)",
-            "45'+2' Ansgar Knauff (Goal)"
+            "45'+2' Ansgar Knauff (Goal)",
+            "49' Atakan Karazor (Yellow Card)"
           ],
           "live": true
         },
