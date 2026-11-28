@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:31",
+  "updated_at": "28.11.2026 20:32",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -8,7 +8,7 @@
           "home": "Gaziantep",
           "away": "Amed SFK",
           "score": "0 - 2",
-          "detail": "CANLI 75'",
+          "detail": "CANLI 76'",
           "live": true
         },
         {
@@ -95,7 +95,7 @@
           "home": "Ipswich",
           "away": "Aston Villa",
           "score": "0 - 0",
-          "detail": "CANLI 1'",
+          "detail": "CANLI 2'",
           "live": true
         },
         {
@@ -118,6 +118,13 @@
       "name": "La Liga",
       "matches": [
         {
+          "home": "Elche",
+          "away": "Atlético",
+          "score": "0 - 0",
+          "detail": "CANLI 2'",
+          "live": true
+        },
+        {
           "home": "Betis",
           "away": "Rayo",
           "score": "0 - 1",
@@ -129,13 +136,6 @@
           "away": "Athletic",
           "score": "3 - 4",
           "detail": "FT",
-          "live": false
-        },
-        {
-          "home": "Elche",
-          "away": "Atlético",
-          "score": "VS",
-          "detail": "Scheduled",
           "live": false
         },
         {
@@ -154,7 +154,7 @@
           "home": "Torino",
           "away": "Lazio",
           "score": "0 - 0",
-          "detail": "CANLI 29'",
+          "detail": "CANLI 30'",
           "live": true
         },
         {
@@ -180,7 +180,7 @@
           "home": "Stuttgart",
           "away": "Frankfurt",
           "score": "0 - 0",
-          "detail": "CANLI 1'",
+          "detail": "CANLI 2'",
           "live": true
         },
         {
