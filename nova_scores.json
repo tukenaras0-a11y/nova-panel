@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:01",
+  "updated_at": "28.11.2026 21:02",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 2",
-          "detail": "CANLI 31'",
+          "detail": "CANLI 32'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -293,7 +293,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "1 - 2",
-          "detail": "CANLI 30'",
+          "detail": "CANLI 31'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -422,7 +422,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "0 - 0",
-          "detail": "CANLI 31'",
+          "detail": "CANLI 32'",
           "venue": "MHPArena",
           "events": [],
           "live": true
