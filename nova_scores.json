@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:46",
+  "updated_at": "28.11.2026 22:48",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -379,6 +379,18 @@
       "matches": [
         {
           "league": "Serie A",
+          "home": "Inter Milan",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+          "away": "Genoa",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+          "score": "0 - 0",
+          "detail": "CANLI 1'",
+          "venue": "San Siro",
+          "events": [],
+          "live": true
+        },
+        {
+          "league": "Serie A",
           "home": "Frosinone",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
           "away": "Parma",
@@ -412,18 +424,6 @@
             "62' Ché Adams (Goal - Header)",
             "87' Saúl Coco (Yellow Card)"
           ],
-          "live": false
-        },
-        {
-          "league": "Serie A",
-          "home": "Inter Milan",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "away": "Genoa",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-          "score": "VS",
-          "detail": "Scheduled",
-          "venue": "San Siro",
-          "events": [],
           "live": false
         }
       ]
