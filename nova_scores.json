@@ -1,25 +1,29 @@
 {
+  "updated_at": "28.11.2026 18:01",
   "leagues": [
     {
       "name": "Süper Lig",
-      "matches": [
-        {"home": "Galatasaray", "away": "Fenerbahçe", "score": "2 - 1", "detail": "MS", "live": false},
-        {"home": "Beşiktaş", "away": "Trabzonspor", "score": "1 - 1", "detail": "MS", "live": false},
-        {"home": "Başakşehir", "away": "Samsunspor", "score": "VS", "detail": "20:00", "live": false}
-      ]
+      "matches": []
     },
     {
       "name": "Şampiyonlar Ligi",
-      "matches": [
-        {"home": "Real Madrid", "away": "Manchester City", "score": "3 - 2", "detail": "MS", "live": false},
-        {"home": "Bayern Münih", "away": "Barcelona", "score": "2 - 2", "detail": "MS", "live": false}
-      ]
+      "matches": []
     },
     {
       "name": "Premier Lig",
-      "matches": [
-        {"home": "Arsenal", "away": "Chelsea", "score": "2 - 0", "detail": "MS", "live": false}
-      ]
+      "matches": []
+    },
+    {
+      "name": "La Liga",
+      "matches": []
+    },
+    {
+      "name": "Serie A",
+      "matches": []
+    },
+    {
+      "name": "Bundesliga",
+      "matches": []
     }
   ]
 }
