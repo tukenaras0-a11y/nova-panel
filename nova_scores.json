@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:23",
+  "updated_at": "28.11.2026 22:24",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 90'+3'",
+          "detail": "CANLI 90'+4'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -437,7 +437,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 2",
-          "detail": "CANLI 90'+2'",
+          "detail": "CANLI 90'+3'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
@@ -447,7 +447,8 @@
             "53' Luca Jaquez (Goal - Header)",
             "62' Younes Ebnoutalib (Goal)",
             "64' Robin Koch (Yellow Card)",
-            "87' Jeff Chabot (Yellow Card)"
+            "87' Jeff Chabot (Yellow Card)",
+            "90'+1' Maximilian Mittelstädt (Yellow Card)"
           ],
           "live": true
         },
