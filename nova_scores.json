@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:53",
+  "updated_at": "28.11.2026 22:54",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -384,7 +384,7 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "0 - 0",
-          "detail": "CANLI 6'",
+          "detail": "CANLI 7'",
           "venue": "San Siro",
           "events": [],
           "live": true
