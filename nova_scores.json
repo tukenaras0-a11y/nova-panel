@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 23:46",
+  "updated_at": "28.11.2026 23:47",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "0 - 1",
-          "detail": "CANLI 45'",
+          "detail": "CANLI 45'+1'",
           "venue": "Santiago Bernabéu",
           "events": [
             "22' Toni Martínez (Goal)"
