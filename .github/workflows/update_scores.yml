@@ -17,25 +17,25 @@ jobs:
           from datetime import datetime, timedelta
 
           leagues = [
-              ("tur.1", "Süper Lig"),
-              ("uefa.champions", "Şampiyonlar Ligi"),
-              ("eng.1", "Premier Lig"),
-              ("esp.1", "La Liga"),
-              ("ita.1", "Serie A"),
-              ("ger.1", "Bundesliga")
+              ("tur.1", "4339", "Süper Lig"),
+              ("uefa.champions", "4480", "Şampiyonlar Ligi"),
+              ("eng.1", "4328", "Premier Lig"),
+              ("esp.1", "4335", "La Liga"),
+              ("ita.1", "4332", "Serie A"),
+              ("ger.1", "4331", "Bundesliga")
           ]
           now = datetime.utcnow() + timedelta(hours=3)
-          d1 = (now - timedelta(days=4)).strftime("%Y%m%d")
-          d2 = (now + timedelta(days=4)).strftime("%Y%m%d")
           out = {"updated_at": now.strftime("%d.%m.%Y %H:%M"), "leagues": []}
-          host = ".".join(["site", "api", "espn", "com"])
-          prefix = "/".join(["apis", "site", "v2", "sports", "soccer"])
+          espn_host = ".".join(["site", "api", "espn", "com"])
+          espn_path = "/".join(["apis", "site", "v2", "sports", "soccer"])
+          sdb_host = ".".join(["www", "thesportsdb", "com"])
+          sdb_path = "/".join(["api", "v1", "json", "3"])
 
-          for code, title in leagues:
-              url = f"https://{host}/{prefix}/{code}/scoreboard?dates={d1}-{d2}"
+          for espn_code, sdb_id, title in leagues:
               matches = []
               try:
-                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                  u1 = f"https://{espn_host}/{espn_path}/{espn_code}/scoreboard"
+                  req = urllib.request.Request(u1, headers={"User-Agent": "Mozilla/5.0"})
                   with urllib.request.urlopen(req, timeout=10) as r:
                       data = json.loads(r.read().decode("utf-8"))
                   for ev in data.get("events", []):
@@ -59,6 +59,27 @@ jobs:
                           })
               except Exception:
                   pass
+
+              if not matches:
+                  try:
+                      u2 = f"https://{sdb_host}/{sdb_path}/eventspastleague.php?id={sdb_id}"
+                      req2 = urllib.request.Request(u2, headers={"User-Agent": "Mozilla/5.0"})
+                      with urllib.request.urlopen(req2, timeout=10) as r2:
+                          d2 = json.loads(r2.read().decode("utf-8"))
+                      for ev in (d2.get("events") or [])[:12]:
+                          hs = ev.get("intHomeScore")
+                          as_ = ev.get("intAwayScore")
+                          has_score = (hs is not None and str(hs) != "")
+                          matches.append({
+                              "home": ev.get("strHomeTeam", "Ev"),
+                              "away": ev.get("strAwayTeam", "Dep"),
+                              "score": f"{hs} - {as_}" if has_score else "VS",
+                              "detail": ev.get("dateEvent", "MS"),
+                              "live": False
+                          })
+                  except Exception:
+                      pass
+
               out["leagues"].append({"name": title, "matches": matches})
 
           with open("nova_scores.json", "w", encoding="utf-8") as f:
