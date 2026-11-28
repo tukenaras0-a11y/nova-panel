@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:09",
+  "updated_at": "28.11.2026 21:10",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,14 +231,15 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 2",
-          "detail": "CANLI 39'",
+          "detail": "CANLI 40'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
             "9' Alysson (Yellow Card)",
             "16' Alysson (Goal)",
             "18' Emersonn (Goal)",
-            "26' João Gomes (Goal - Volley)"
+            "26' João Gomes (Goal - Volley)",
+            "38' João Gomes (Yellow Card)"
           ],
           "live": true
         },
@@ -293,7 +294,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "1 - 2",
-          "detail": "CANLI 38'",
+          "detail": "CANLI 39'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -370,7 +371,7 @@
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "0 - 2",
-          "detail": "CANLI 49'",
+          "detail": "CANLI 51'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
@@ -422,7 +423,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "0 - 0",
-          "detail": "CANLI 39'",
+          "detail": "CANLI 41'",
           "venue": "MHPArena",
           "events": [],
           "live": true
