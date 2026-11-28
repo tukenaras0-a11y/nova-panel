@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.11.2026 00:39",
+  "updated_at": "29.11.2026 00:40",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "1 - 2",
-          "detail": "CANLI 80'",
+          "detail": "CANLI 81'",
           "venue": "Santiago Bernabéu",
           "events": [
             "22' Toni Martínez (Goal)",
@@ -389,26 +389,6 @@
       "matches": [
         {
           "league": "Serie A",
-          "home": "Inter Milan",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "away": "Genoa",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-          "score": "4 - 0",
-          "detail": "CANLI 90'+2'",
-          "venue": "San Siro",
-          "events": [
-            "17' Nicolò Barella (Yellow Card)",
-            "28' Carlos Augusto (Yellow Card)",
-            "29' Lautaro Martínez (Goal)",
-            "40' Marcus Thuram (Goal)",
-            "45'+3' Petar Sucic (Penalty - Scored)",
-            "54' Marcus Thuram (Goal)",
-            "73' Alessandro Marcandalli (Yellow Card)"
-          ],
-          "live": true
-        },
-        {
-          "league": "Serie A",
           "home": "Frosinone",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
           "away": "Parma",
@@ -441,6 +421,26 @@
             "44' Gustav Isaksen (Goal)",
             "62' Ché Adams (Goal - Header)",
             "87' Saúl Coco (Yellow Card)"
+          ],
+          "live": false
+        },
+        {
+          "league": "Serie A",
+          "home": "Inter Milan",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+          "away": "Genoa",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+          "score": "4 - 0",
+          "detail": "FT",
+          "venue": "San Siro",
+          "events": [
+            "17' Nicolò Barella (Yellow Card)",
+            "28' Carlos Augusto (Yellow Card)",
+            "29' Lautaro Martínez (Goal)",
+            "40' Marcus Thuram (Goal)",
+            "45'+3' Petar Sucic (Penalty - Scored)",
+            "54' Marcus Thuram (Goal)",
+            "73' Alessandro Marcandalli (Yellow Card)"
           ],
           "live": false
         }
