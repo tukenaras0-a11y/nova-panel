@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.11.2026 00:08",
+  "updated_at": "29.11.2026 00:09",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "0 - 1",
-          "detail": "CANLI 49'",
+          "detail": "CANLI 50'",
           "venue": "Santiago Bernabéu",
           "events": [
             "22' Toni Martínez (Goal)",
@@ -387,7 +387,7 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "4 - 0",
-          "detail": "CANLI 61'",
+          "detail": "CANLI 62'",
           "venue": "San Siro",
           "events": [
             "17' Nicolò Barella (Yellow Card)",
