@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:24",
+  "updated_at": "28.11.2026 22:25",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -294,29 +294,6 @@
       "matches": [
         {
           "league": "La Liga",
-          "home": "Elche",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-          "away": "Atlético",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-          "score": "2 - 3",
-          "detail": "CANLI 90'+4'",
-          "venue": "Estadio Martínez Valero",
-          "events": [
-            "5' Alejandro Grimaldo (Penalty - Scored)",
-            "7' Lee Kang-In (Goal)",
-            "26' Martim Neto (Goal)",
-            "41' Julián Álvarez (Goal)",
-            "43' Marc Pubill (Yellow Card)",
-            "48' Buba Sangaré (Goal)",
-            "54' Buba Sangaré (Yellow Card)",
-            "67' Roy Revivo (Yellow Card)",
-            "85' Alejandro Grimaldo (Yellow Card)",
-            "90' Marcos Llorente (Yellow Card)"
-          ],
-          "live": true
-        },
-        {
-          "league": "La Liga",
           "home": "Betis",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
           "away": "Rayo",
@@ -356,6 +333,30 @@
             "82' Adrián Niño (Goal)",
             "90'+2' Nico Williams (Yellow Card)",
             "90'+2' Diego Murillo (Yellow Card)"
+          ],
+          "live": false
+        },
+        {
+          "league": "La Liga",
+          "home": "Elche",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+          "away": "Atlético",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+          "score": "2 - 3",
+          "detail": "FT",
+          "venue": "Estadio Martínez Valero",
+          "events": [
+            "5' Alejandro Grimaldo (Penalty - Scored)",
+            "7' Lee Kang-In (Goal)",
+            "26' Martim Neto (Goal)",
+            "41' Julián Álvarez (Goal)",
+            "43' Marc Pubill (Yellow Card)",
+            "48' Buba Sangaré (Goal)",
+            "54' Buba Sangaré (Yellow Card)",
+            "67' Roy Revivo (Yellow Card)",
+            "85' Alejandro Grimaldo (Yellow Card)",
+            "90' Marcos Llorente (Yellow Card)",
+            "90'+3' Ezequiel Ponce (Yellow Card)"
           ],
           "live": false
         },
@@ -437,7 +438,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 2",
-          "detail": "CANLI 90'+3'",
+          "detail": "CANLI 90'+4'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
