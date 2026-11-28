@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:25",
+  "updated_at": "28.11.2026 22:26",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -433,28 +433,6 @@
       "matches": [
         {
           "league": "Bundesliga",
-          "home": "Stuttgart",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-          "away": "Frankfurt",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-          "score": "2 - 2",
-          "detail": "CANLI 90'+4'",
-          "venue": "MHPArena",
-          "events": [
-            "42' Grischa Prömel (Goal)",
-            "45' Luca Jaquez (Yellow Card)",
-            "45'+2' Ansgar Knauff (Goal)",
-            "49' Atakan Karazor (Yellow Card)",
-            "53' Luca Jaquez (Goal - Header)",
-            "62' Younes Ebnoutalib (Goal)",
-            "64' Robin Koch (Yellow Card)",
-            "87' Jeff Chabot (Yellow Card)",
-            "90'+1' Maximilian Mittelstädt (Yellow Card)"
-          ],
-          "live": true
-        },
-        {
-          "league": "Bundesliga",
           "home": "Cologne",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
           "away": "Elversberg",
@@ -530,6 +508,28 @@
             "85' Mert Can Ayhan (Yellow Card)",
             "85' Gabriel Vidovic (Penalty - Scored)",
             "90'+5' Felix Götze (Goal)"
+          ],
+          "live": false
+        },
+        {
+          "league": "Bundesliga",
+          "home": "Stuttgart",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+          "away": "Frankfurt",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+          "score": "2 - 2",
+          "detail": "FT",
+          "venue": "MHPArena",
+          "events": [
+            "42' Grischa Prömel (Goal)",
+            "45' Luca Jaquez (Yellow Card)",
+            "45'+2' Ansgar Knauff (Goal)",
+            "49' Atakan Karazor (Yellow Card)",
+            "53' Luca Jaquez (Goal - Header)",
+            "62' Younes Ebnoutalib (Goal)",
+            "64' Robin Koch (Yellow Card)",
+            "87' Jeff Chabot (Yellow Card)",
+            "90'+1' Maximilian Mittelstädt (Yellow Card)"
           ],
           "live": false
         }
