@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 23:01",
+  "updated_at": "28.11.2026 23:02",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -294,6 +294,18 @@
       "matches": [
         {
           "league": "La Liga",
+          "home": "Real Madrid",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+          "away": "Alavés",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+          "score": "0 - 0",
+          "detail": "CANLI 1'",
+          "venue": "Santiago Bernabéu",
+          "events": [],
+          "live": true
+        },
+        {
+          "league": "La Liga",
           "home": "Betis",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
           "away": "Rayo",
@@ -359,18 +371,6 @@
             "90'+3' Ezequiel Ponce (Yellow Card)"
           ],
           "live": false
-        },
-        {
-          "league": "La Liga",
-          "home": "Real Madrid",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "away": "Alavés",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-          "score": "VS",
-          "detail": "Scheduled",
-          "venue": "Santiago Bernabéu",
-          "events": [],
-          "live": false
         }
       ]
     },
@@ -384,7 +384,7 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "0 - 0",
-          "detail": "CANLI 14'",
+          "detail": "CANLI 15'",
           "venue": "San Siro",
           "events": [],
           "live": true
