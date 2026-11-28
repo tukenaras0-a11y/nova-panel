@@ -1,21 +1,50 @@
 {
-  "updated_at": "28.11.2026 20:50",
+  "updated_at": "28.11.2026 20:51",
   "leagues": [
     {
       "name": "Süper Lig",
       "matches": [
         {
+          "league": "Süper Lig",
           "home": "Gaziantep",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
           "away": "Amed SFK",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
           "score": "1 - 2",
-          "detail": "CANLI 90'+4'",
+          "detail": "CANLI 90'+5'",
+          "venue": "Gaziantep Stadium",
+          "events": [
+            "46' Gift Orban (Goal)",
+            "48' Gift Orban (Yellow Card)",
+            "50' Gift Orban (Goal)",
+            "72' Rayan Lutin (Yellow Card)",
+            "76' Ulrich Meleke (Yellow Card)",
+            "90'+3' Serdar Dursun (Goal)"
+          ],
           "live": true
         },
         {
+          "league": "Süper Lig",
           "home": "Samsunspor",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
           "away": "Genclerbirli",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png",
           "score": "3 - 1",
           "detail": "FT",
+          "venue": "Samsun 19 Mayis Stadium",
+          "events": [
+            "7' Mohamed Bayo (Goal)",
+            "13' Elliot Watt (Yellow Card)",
+            "26' Tanguy Coulibaly (Goal)",
+            "30' Cheikh Niasse (Yellow Card)",
+            "34' Irfan Can Egribayat (Yellow Card)",
+            "36' Strahinja Erakovic (Yellow Card)",
+            "39' Tanguy Coulibaly (Goal)",
+            "43' Ogulcan Ülgün (Yellow Card)",
+            "43' Bilal Biyazit (Yellow Card)",
+            "58' Pedro Mendes (Goal)",
+            "88' Adama Traoré (Yellow Card)"
+          ],
           "live": false
         }
       ]
@@ -24,66 +53,170 @@
       "name": "Şampiyonlar Ligi",
       "matches": [
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Sabah",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
           "away": "Barcelona",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
           "score": "1 - 4",
           "detail": "FT",
+          "venue": "Baku Olympic Stadium",
+          "events": [
+            "31' Anthony Gordon (Goal)",
+            "51' Anthony Gordon (Goal - Volley)",
+            "55' Karim Adeyemi (Goal)",
+            "60' Gabriel Jesus (Goal)",
+            "63' Joy-Lance Mickels (Goal)",
+            "69' Ivan Lepinjica (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Slavia Prague",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
           "away": "Villarreal",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
           "score": "0 - 1",
           "detail": "FT",
+          "venue": "Fortuna Arena",
+          "events": [
+            "4' Michal Sadílek (Yellow Card)",
+            "12' Sergi Cardona (Yellow Card)",
+            "29' Ange N'Guessan (Yellow Card)",
+            "45'+2' Renato Veiga (Yellow Card)",
+            "62' Tajon Buchanan (Goal)",
+            "90'+3' Tajon Buchanan (Yellow Card)",
+            "90'+4' Carlos Romero (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Atlético",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "away": "Viking FK",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
           "score": "2 - 0",
           "detail": "FT",
+          "venue": "Riyadh Air Metropolitano",
+          "events": [
+            "19' Alexander Sørloth (Goal)",
+            "24' Julián Álvarez (Goal - Free-kick)",
+            "46' Gianni Stensness (Yellow Card)",
+            "90'+1' Henrik Falchener (Red Card)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Club Brugge",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
           "away": "Liverpool",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
           "score": "0 - 3",
           "detail": "FT",
+          "venue": "Jan Breydel Stadium",
+          "events": [
+            "13' Alexander Isak (Goal)",
+            "63'  (Yellow Card)",
+            "79' Florian Wirtz (Goal)",
+            "82' Alexander Isak (Goal)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Inter Milan",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
           "away": "Stuttgart",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
           "score": "2 - 0",
           "detail": "FT",
+          "venue": "San Siro",
+          "events": [
+            "13' Marcus Thuram (Yellow Card)",
+            "48' Finn Jeltsch (Yellow Card)",
+            "57' Petar Sucic (Penalty - Scored)",
+            "74' Lautaro Martínez (Goal)",
+            "78' Manuel Akanji (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Lille",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
           "away": "Bayern",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
           "score": "2 - 1",
           "detail": "FT",
+          "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+          "events": [
+            "15' Dayot Upamecano (Goal - Header)",
+            "53' Konrad Laimer (Yellow Card)",
+            "59'  (Yellow Card)",
+            "62' Ayase Ueda (Goal)",
+            "65' Aleksandar Pavlovic (Own Goal)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "PSG",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
           "away": "AS Roma",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
           "score": "2 - 2",
           "detail": "FT",
+          "venue": "Parc des Princes",
+          "events": [
+            "5' Mario Hermoso (Goal)",
+            "31' Illia Zabarnyi (Goal - Header)",
+            "41' Gianluca Mancini (Yellow Card)",
+            "60' Wesley (Yellow Card)",
+            "62' Ousmane Dembélé (Penalty - Scored)",
+            "78' Donyell Malen (Penalty - Scored)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Shakhtar",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
           "away": "Fenerbahce",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
           "score": "0 - 1",
           "detail": "FT",
+          "venue": "Stamford Bridge",
+          "events": [
+            "53' Ismail Yüksek (Yellow Card)",
+            "56' Vedat Muriqi (Goal)",
+            "69' Valeriy Bondar (Yellow Card)",
+            "73' Pedrinho (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "Şampiyonlar Ligi",
           "home": "Sporting",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
           "away": "Man Utd",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
           "score": "2 - 2",
           "detail": "FT",
+          "venue": "Estádio José Alvalade",
+          "events": [
+            "31' Senne Lammens (Yellow Card)",
+            "33' Luis Suárez (Penalty - Scored)",
+            "40' Youri Tielemans (Yellow Card)",
+            "48' Bruno Fernandes (Penalty - Scored)",
+            "50' Bruno Fernandes (Goal)",
+            "53' Eduardo Quaresma (Yellow Card)",
+            "80' Luis Suárez (Goal)",
+            "87' Nestory Irankunda (Yellow Card)",
+            "90'+3' Youri Tielemans (Red Card)"
+          ],
           "live": false
         }
       ]
@@ -92,24 +225,59 @@
       "name": "Premier Lig",
       "matches": [
         {
+          "league": "Premier Lig",
           "home": "Ipswich",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
           "away": "Aston Villa",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 1",
-          "detail": "CANLI 20'",
+          "detail": "CANLI 21'",
+          "venue": "Portman Road",
+          "events": [
+            "1' Boubacar Kamara (Yellow Card)",
+            "9' Alysson (Yellow Card)",
+            "16' Alysson (Goal)",
+            "18' Emersonn (Goal)"
+          ],
           "live": true
         },
         {
+          "league": "Premier Lig",
           "home": "Leeds",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
           "away": "Coventry",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
           "score": "3 - 0",
           "detail": "FT",
+          "venue": "Elland Road",
+          "events": [
+            "40' Dominic Calvert-Lewin (Goal - Header)",
+            "45' Sean Longstaff (Goal)",
+            "46' Jay Da Silva (Yellow Card)",
+            "56' Jayden Bogle (Yellow Card)",
+            "66' Sean Longstaff (Goal)"
+          ],
           "live": false
         },
         {
+          "league": "Premier Lig",
           "home": "Man Utd",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
           "away": "Brentford",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
           "score": "0 - 4",
           "detail": "FT",
+          "venue": "Old Trafford",
+          "events": [
+            "19' Callum Wilson (Goal)",
+            "32' Callum Wilson (Goal)",
+            "35' Lisandro Martínez (Yellow Card)",
+            "49' Leny Yoro (Yellow Card)",
+            "82' Kristoffer Ajer (Goal)",
+            "86' Harry Maguire (Yellow Card)",
+            "90'+1' Kevin Schade (Goal)",
+            "90'+3' Fábio Carvalho (Yellow Card)"
+          ],
           "live": false
         }
       ]
@@ -118,31 +286,74 @@
       "name": "La Liga",
       "matches": [
         {
+          "league": "La Liga",
           "home": "Elche",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
           "away": "Atlético",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "0 - 2",
           "detail": "CANLI 20'",
+          "venue": "Estadio Martínez Valero",
+          "events": [
+            "5' Alejandro Grimaldo (Penalty - Scored)",
+            "7' Lee Kang-In (Goal)"
+          ],
           "live": true
         },
         {
+          "league": "La Liga",
           "home": "Betis",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
           "away": "Rayo",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
           "score": "0 - 1",
           "detail": "FT",
+          "venue": "Estadio La Cartuja",
+          "events": [
+            "19' Sergio Camello (Yellow Card)",
+            "45' Junior Firpo (Yellow Card)",
+            "66' Isco (Yellow Card)",
+            "72' Jorge de Frutos (Goal)",
+            "75' Unai López (Yellow Card)",
+            "78' Abde Ezzalzouli (Yellow Card)",
+            "86' Nelson Deossa (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "La Liga",
           "home": "Málaga",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
           "away": "Athletic",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
           "score": "3 - 4",
           "detail": "FT",
+          "venue": "La Rosaleda",
+          "events": [
+            "24' Iñigo Ruiz de Galarreta (Yellow Card)",
+            "27' Oihan Sancet (Goal)",
+            "34' Álex Berenguer (Goal)",
+            "36' Jens Cajuste (Goal)",
+            "38' Nico Williams (Goal)",
+            "44' Hugo Rincón (Goal)",
+            "49' Adrián Niño (Goal)",
+            "78' Robert Navarro (Yellow Card)",
+            "82' Adrián Niño (Goal)",
+            "90'+2' Nico Williams (Yellow Card)",
+            "90'+2' Diego Murillo (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "La Liga",
           "home": "Real Madrid",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
           "away": "Alavés",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "VS",
           "detail": "Scheduled",
+          "venue": "Santiago Bernabéu",
+          "events": [],
           "live": false
         }
       ]
@@ -151,24 +362,50 @@
       "name": "Serie A",
       "matches": [
         {
+          "league": "Serie A",
           "home": "Torino",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
           "away": "Lazio",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "0 - 2",
           "detail": "CANLI 45'+3'",
+          "venue": "Stadio Olimpico Grande Torino",
+          "events": [
+            "42' Oliver Provstgaard (Goal - Header)",
+            "44' Gustav Isaksen (Goal)"
+          ],
           "live": true
         },
         {
+          "league": "Serie A",
           "home": "Frosinone",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
           "away": "Parma",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
           "score": "3 - 0",
           "detail": "FT",
+          "venue": "Stadio Benito Stirpe",
+          "events": [
+            "28' Enrico Del Prato (Yellow Card)",
+            "33' Ilario Monterisi (Yellow Card)",
+            "41' Hans Nicolussi Caviglia (Yellow Card)",
+            "55' Tomas Bobcek (Goal)",
+            "61' Tomas Bobcek (Goal)",
+            "71' Nesta Elphege (Yellow Card)",
+            "79' Tomas Bobcek (Goal)"
+          ],
           "live": false
         },
         {
+          "league": "Serie A",
           "home": "Inter Milan",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
           "away": "Genoa",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "VS",
           "detail": "Scheduled",
+          "venue": "San Siro",
+          "events": [],
           "live": false
         }
       ]
@@ -177,38 +414,95 @@
       "name": "Bundesliga",
       "matches": [
         {
+          "league": "Bundesliga",
           "home": "Stuttgart",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
           "away": "Frankfurt",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "0 - 0",
-          "detail": "CANLI 20'",
+          "detail": "CANLI 21'",
+          "venue": "MHPArena",
+          "events": [],
           "live": true
         },
         {
+          "league": "Bundesliga",
           "home": "Cologne",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
           "away": "Elversberg",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
           "score": "5 - 0",
           "detail": "FT",
+          "venue": "RheinEnergieStadion",
+          "events": [
+            "8' Marius Bulter (Goal - Header)",
+            "16' Said El Mala (Goal)",
+            "39' Marius Bulter (Goal - Header)",
+            "63' Marius Bulter (Goal)",
+            "64' Linton Maina (Yellow Card)",
+            "68' Said El Mala (Goal)",
+            "68' Maximilian Rohr (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "Bundesliga",
           "home": "Hamburg",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
           "away": "Bayern",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
           "score": "0 - 0",
           "detail": "FT",
+          "venue": "Volksparkstadion",
+          "events": [
+            "44' Joshua Kimmich (Red Card)",
+            "45' David Møller Wolfe (Yellow Card)",
+            "55' Zakaria El Ouahdi (Yellow Card)",
+            "77' Bakery Jatta (Yellow Card)"
+          ],
           "live": false
         },
         {
+          "league": "Bundesliga",
           "home": "Mainz",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
           "away": "Union Berlin",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
           "score": "2 - 1",
           "detail": "FT",
+          "venue": "MEWA ARENA",
+          "events": [
+            "37' Janik Haberer (Goal - Header)",
+            "39' Anthony Caci (Yellow Card)",
+            "45' Ransford-Yeboah Königsdörffer (Yellow Card)",
+            "65' Frederik Ronnow (Yellow Card)",
+            "85' Phillip Tietz (Goal - Header)",
+            "90'+2' Anthony Caci (Goal - Volley)"
+          ],
           "live": false
         },
         {
+          "league": "Bundesliga",
           "home": "Paderborn",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
           "away": "Schalke",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
           "score": "8 - 1",
           "detail": "FT",
+          "venue": "Home Deluxe Arena",
+          "events": [
+            "21' Jano Horst (Goal)",
+            "39' Stefano Marino (Goal)",
+            "45'+4' Stefano Marino (Goal)",
+            "45'+4' Loris Karius (Yellow Card)",
+            "55' Steffen Tigges (Goal)",
+            "57' Stefano Marino (Goal)",
+            "59' Adil Aouchiche (Goal)",
+            "73' Deniz Zeitler (Goal)",
+            "85' Mert Can Ayhan (Yellow Card)",
+            "85' Gabriel Vidovic (Penalty - Scored)",
+            "90'+5' Felix Götze (Goal)"
+          ],
           "live": false
         }
       ]
