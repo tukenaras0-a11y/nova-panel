@@ -1,21 +1,21 @@
 {
-  "updated_at": "28.11.2026 18:51",
+  "updated_at": "28.11.2026 19:28",
   "leagues": [
     {
       "name": "Süper Lig",
       "matches": [
         {
+          "home": "Gaziantep",
+          "away": "Amed SFK",
+          "score": "0 - 0",
+          "detail": "CANLI 29'",
+          "live": true
+        },
+        {
           "home": "Samsunspor",
           "away": "Genclerbirli",
           "score": "3 - 1",
           "detail": "FT",
-          "live": false
-        },
-        {
-          "home": "Gaziantep",
-          "away": "Amed SFK",
-          "score": "VS",
-          "detail": "Scheduled",
           "live": false
         }
       ]
@@ -94,15 +94,15 @@
         {
           "home": "Leeds",
           "away": "Coventry",
-          "score": "2 - 0",
-          "detail": "CANLI 45'+2'",
+          "score": "3 - 0",
+          "detail": "CANLI 71'",
           "live": true
         },
         {
           "home": "Man Utd",
           "away": "Brentford",
           "score": "0 - 2",
-          "detail": "CANLI 45'+3'",
+          "detail": "CANLI 70'",
           "live": true
         },
         {
@@ -120,8 +120,8 @@
         {
           "home": "Málaga",
           "away": "Athletic",
-          "score": "0 - 2",
-          "detail": "CANLI 36'",
+          "score": "2 - 4",
+          "detail": "CANLI 52'",
           "live": true
         },
         {
@@ -154,8 +154,8 @@
           "home": "Frosinone",
           "away": "Parma",
           "score": "3 - 0",
-          "detail": "CANLI 90'+3'",
-          "live": true
+          "detail": "FT",
+          "live": false
         },
         {
           "home": "Torino",
@@ -179,30 +179,30 @@
         {
           "home": "Cologne",
           "away": "Elversberg",
-          "score": "3 - 0",
-          "detail": "CANLI 63'",
-          "live": true
+          "score": "5 - 0",
+          "detail": "FT",
+          "live": false
         },
         {
           "home": "Hamburg",
           "away": "Bayern",
           "score": "0 - 0",
-          "detail": "CANLI 63'",
-          "live": true
+          "detail": "FT",
+          "live": false
         },
         {
           "home": "Mainz",
           "away": "Union Berlin",
-          "score": "0 - 1",
-          "detail": "CANLI 62'",
-          "live": true
+          "score": "2 - 1",
+          "detail": "FT",
+          "live": false
         },
         {
           "home": "Paderborn",
           "away": "Schalke",
-          "score": "5 - 1",
-          "detail": "CANLI 60'",
-          "live": true
+          "score": "8 - 1",
+          "detail": "FT",
+          "live": false
         },
         {
           "home": "Stuttgart",
