@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:33",
+  "updated_at": "28.11.2026 20:34",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -8,7 +8,7 @@
           "home": "Gaziantep",
           "away": "Amed SFK",
           "score": "0 - 2",
-          "detail": "CANLI 77'",
+          "detail": "CANLI 78'",
           "live": true
         },
         {
@@ -95,7 +95,7 @@
           "home": "Ipswich",
           "away": "Aston Villa",
           "score": "0 - 0",
-          "detail": "CANLI 3'",
+          "detail": "CANLI 4'",
           "live": true
         },
         {
@@ -154,7 +154,7 @@
           "home": "Torino",
           "away": "Lazio",
           "score": "0 - 0",
-          "detail": "CANLI 31'",
+          "detail": "CANLI 32'",
           "live": true
         },
         {
@@ -180,7 +180,7 @@
           "home": "Stuttgart",
           "away": "Frankfurt",
           "score": "0 - 0",
-          "detail": "CANLI 3'",
+          "detail": "CANLI 4'",
           "live": true
         },
         {
