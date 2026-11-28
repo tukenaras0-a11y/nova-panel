@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:14",
+  "updated_at": "28.11.2026 21:15",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 2",
-          "detail": "CANLI 44'",
+          "detail": "CANLI 45'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -294,13 +294,14 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "1 - 3",
-          "detail": "CANLI 43'",
+          "detail": "CANLI 44'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
             "7' Lee Kang-In (Goal)",
             "26' Martim Neto (Goal)",
-            "41' Julián Álvarez (Goal)"
+            "41' Julián Álvarez (Goal)",
+            "43' Marc Pubill (Yellow Card)"
           ],
           "live": true
         },
@@ -372,7 +373,7 @@
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "0 - 2",
-          "detail": "CANLI 54'",
+          "detail": "CANLI 56'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
@@ -424,7 +425,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "1 - 0",
-          "detail": "CANLI 44'",
+          "detail": "CANLI 45'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)"
