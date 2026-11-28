@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:52",
+  "updated_at": "28.11.2026 20:53",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -11,7 +11,7 @@
           "away": "Amed SFK",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
           "score": "1 - 2",
-          "detail": "CANLI 90'+6'",
+          "detail": "CANLI 90'+7'",
           "venue": "Gaziantep Stadium",
           "events": [
             "46' Gift Orban (Goal)",
@@ -231,13 +231,13 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 1",
-          "detail": "CANLI 22'",
+          "detail": "CANLI 23'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
             "9' Alysson (Yellow Card)",
             "16' Alysson (Goal)",
-            "18' Emersonn (Goal)"
+            "18' Emersonn (Goal - Volley)"
           ],
           "live": true
         },
@@ -292,7 +292,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "0 - 2",
-          "detail": "CANLI 21'",
+          "detail": "CANLI 22'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -420,11 +420,9 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "0 - 0",
-          "detail": "CANLI 22'",
+          "detail": "CANLI 23'",
           "venue": "MHPArena",
-          "events": [
-            "20' Robin Koch (Red Card)"
-          ],
+          "events": [],
           "live": true
         },
         {
