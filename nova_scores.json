@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:55",
+  "updated_at": "28.11.2026 20:56",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 1",
-          "detail": "CANLI 25'",
+          "detail": "CANLI 26'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -420,7 +420,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "0 - 0",
-          "detail": "CANLI 25'",
+          "detail": "CANLI 26'",
           "venue": "MHPArena",
           "events": [],
           "live": true
