@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:45",
+  "updated_at": "28.11.2026 21:46",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "2 - 2",
-          "detail": "CANLI 57'",
+          "detail": "CANLI 58'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -240,7 +240,8 @@
             "18' Emersonn (Goal)",
             "26' João Gomes (Goal)",
             "38' João Gomes (Yellow Card)",
-            "55' John McGinn (Yellow Card)"
+            "55' John McGinn (Yellow Card)",
+            "56' Leif Davis (Goal - Header)"
           ],
           "live": true
         },
@@ -295,7 +296,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 55'",
+          "detail": "CANLI 56'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -303,7 +304,8 @@
             "26' Martim Neto (Goal)",
             "41' Julián Álvarez (Goal)",
             "43' Marc Pubill (Yellow Card)",
-            "48' Buba Sangaré (Goal)"
+            "48' Buba Sangaré (Goal)",
+            "54' Buba Sangaré (Yellow Card)"
           ],
           "live": true
         },
@@ -375,7 +377,7 @@
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "1 - 2",
-          "detail": "CANLI 86'",
+          "detail": "CANLI 87'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
@@ -428,7 +430,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 1",
-          "detail": "CANLI 54'",
+          "detail": "CANLI 55'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
