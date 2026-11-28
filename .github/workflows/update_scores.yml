@@ -38,10 +38,8 @@ jobs:
                   with urllib.request.urlopen(req, timeout=10) as r:
                       data = json.loads(r.read().decode("utf-8"))
                   for ev in data.get("events", []):
-                      comps_list = ev.get("competitions", [])
-                      if not comps_list:
-                          continue
-                      cs = comps_list.get("competitors", [])
+                      comp = next(iter(ev.get("competitions", [])), {})
+                      cs = comp.get("competitors", [])
                       if len(cs) >= 2:
                           home = next((c for c in cs if c.get("homeAway") == "home"), cs)
                           away = next((c for c in cs if c.get("homeAway") == "away"), cs)
