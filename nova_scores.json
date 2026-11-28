@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:44",
+  "updated_at": "28.11.2026 21:45",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -230,16 +230,17 @@
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "score": "1 - 2",
-          "detail": "CANLI 56'",
+          "score": "2 - 2",
+          "detail": "CANLI 57'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
             "9' Alysson (Yellow Card)",
             "16' Alysson (Goal)",
             "18' Emersonn (Goal)",
-            "26' João Gomes (Goal - Volley)",
-            "38' João Gomes (Yellow Card)"
+            "26' João Gomes (Goal)",
+            "38' João Gomes (Yellow Card)",
+            "55' John McGinn (Yellow Card)"
           ],
           "live": true
         },
@@ -294,7 +295,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 54'",
+          "detail": "CANLI 55'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -374,7 +375,7 @@
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "1 - 2",
-          "detail": "CANLI 85'",
+          "detail": "CANLI 86'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
@@ -426,14 +427,15 @@
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-          "score": "1 - 1",
-          "detail": "CANLI 53'",
+          "score": "2 - 1",
+          "detail": "CANLI 54'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
             "45' Luca Jaquez (Yellow Card)",
             "45'+2' Ansgar Knauff (Goal)",
-            "49' Atakan Karazor (Yellow Card)"
+            "49' Atakan Karazor (Yellow Card)",
+            "53' Luca Jaquez (Goal - Header)"
           ],
           "live": true
         },
