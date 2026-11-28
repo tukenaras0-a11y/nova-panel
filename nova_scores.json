@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 22:22",
+  "updated_at": "28.11.2026 22:23",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -226,30 +226,6 @@
       "matches": [
         {
           "league": "Premier Lig",
-          "home": "Ipswich",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-          "away": "Aston Villa",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "score": "2 - 2",
-          "detail": "CANLI 90'+4'",
-          "venue": "Portman Road",
-          "events": [
-            "1' Boubacar Kamara (Yellow Card)",
-            "9' Alysson (Yellow Card)",
-            "16' Alysson (Goal)",
-            "18' Emersonn (Goal)",
-            "26' João Gomes (Goal)",
-            "38' João Gomes (Yellow Card)",
-            "55' John McGinn (Yellow Card)",
-            "56' Leif Davis (Goal - Header)",
-            "69' Emersonn (Yellow Card)",
-            "84' Matty Cash (Yellow Card)",
-            "90' Sasa Lukic (Yellow Card)"
-          ],
-          "live": true
-        },
-        {
-          "league": "Premier Lig",
           "home": "Leeds",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
           "away": "Coventry",
@@ -286,6 +262,30 @@
             "90'+3' Fábio Carvalho (Yellow Card)"
           ],
           "live": false
+        },
+        {
+          "league": "Premier Lig",
+          "home": "Ipswich",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+          "away": "Aston Villa",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+          "score": "2 - 2",
+          "detail": "FT",
+          "venue": "Portman Road",
+          "events": [
+            "1' Boubacar Kamara (Yellow Card)",
+            "9' Alysson (Yellow Card)",
+            "16' Alysson (Goal)",
+            "18' Emersonn (Goal)",
+            "26' João Gomes (Goal)",
+            "38' João Gomes (Yellow Card)",
+            "55' John McGinn (Yellow Card)",
+            "56' Leif Davis (Goal - Header)",
+            "69' Emersonn (Yellow Card)",
+            "84' Matty Cash (Yellow Card)",
+            "90' Sasa Lukic (Yellow Card)"
+          ],
+          "live": false
         }
       ]
     },
@@ -299,7 +299,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 90'+2'",
+          "detail": "CANLI 90'+3'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -437,7 +437,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 2",
-          "detail": "CANLI 90'+1'",
+          "detail": "CANLI 90'+2'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
