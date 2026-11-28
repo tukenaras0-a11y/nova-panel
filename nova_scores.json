@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 18:27",
+  "updated_at": "28.11.2026 18:40",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -95,14 +95,14 @@
           "home": "Leeds",
           "away": "Coventry",
           "score": "0 - 0",
-          "detail": "27'",
+          "detail": "40'",
           "live": true
         },
         {
           "home": "Man Utd",
           "away": "Brentford",
-          "score": "0 - 1",
-          "detail": "28'",
+          "score": "0 - 2",
+          "detail": "41'",
           "live": true
         },
         {
@@ -128,7 +128,7 @@
           "home": "Málaga",
           "away": "Athletic",
           "score": "0 - 0",
-          "detail": "11'",
+          "detail": "25'",
           "live": true
         },
         {
@@ -153,8 +153,8 @@
         {
           "home": "Frosinone",
           "away": "Parma",
-          "score": "2 - 0",
-          "detail": "69'",
+          "score": "3 - 0",
+          "detail": "83'",
           "live": true
         },
         {
@@ -180,28 +180,28 @@
           "home": "Cologne",
           "away": "Elversberg",
           "score": "3 - 0",
-          "detail": "HT",
+          "detail": "53'",
           "live": true
         },
         {
           "home": "Hamburg",
           "away": "Bayern",
           "score": "0 - 0",
-          "detail": "HT",
+          "detail": "52'",
           "live": true
         },
         {
           "home": "Mainz",
           "away": "Union Berlin",
           "score": "0 - 1",
-          "detail": "HT",
+          "detail": "51'",
           "live": true
         },
         {
           "home": "Paderborn",
           "away": "Schalke",
           "score": "3 - 0",
-          "detail": "HT",
+          "detail": "50'",
           "live": true
         },
         {
