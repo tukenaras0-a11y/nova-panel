@@ -41,8 +41,8 @@ jobs:
                       comp = next(iter(ev.get("competitions", [])), {})
                       cs = comp.get("competitors", [])
                       if len(cs) >= 2:
-                          home = next((c for c in cs if c.get("homeAway") == "home"), cs)
-                          away = next((c for c in cs if c.get("homeAway") == "away"), cs)
+                          home = next((c for c in cs if c.get("homeAway") == "home"), next(iter(cs), {}))
+                          away = next((c for c in cs if c.get("homeAway") == "away"), next(reversed(cs), {}))
                           st = ev.get("status", {}).get("type", {})
                           state = st.get("state", "")
                           is_live = (state == "in")
