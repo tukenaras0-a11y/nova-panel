@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 23:18",
+  "updated_at": "28.11.2026 23:19",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "0 - 0",
-          "detail": "CANLI 17'",
+          "detail": "CANLI 18'",
           "venue": "Santiago Bernabéu",
           "events": [],
           "live": true
@@ -384,12 +384,12 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "1 - 0",
-          "detail": "CANLI 31'",
+          "detail": "CANLI 32'",
           "venue": "San Siro",
           "events": [
             "17' Nicolò Barella (Yellow Card)",
             "28' Carlos Augusto (Yellow Card)",
-            "30' Lautaro Martínez (Goal)"
+            "29' Lautaro Martínez (Goal)"
           ],
           "live": true
         },
