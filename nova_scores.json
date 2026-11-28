@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:54",
+  "updated_at": "28.11.2026 21:55",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "2 - 2",
-          "detail": "CANLI 66'",
+          "detail": "CANLI 67'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -296,7 +296,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "2 - 3",
-          "detail": "CANLI 64'",
+          "detail": "CANLI 65'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -372,23 +372,6 @@
       "matches": [
         {
           "league": "Serie A",
-          "home": "Torino",
-          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-          "away": "Lazio",
-          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-          "score": "1 - 2",
-          "detail": "CANLI 90'+5'",
-          "venue": "Stadio Olimpico Grande Torino",
-          "events": [
-            "42' Oliver Provstgaard (Goal - Header)",
-            "44' Gustav Isaksen (Goal)",
-            "62' Ché Adams (Goal - Header)",
-            "87' Saúl Coco (Yellow Card)"
-          ],
-          "live": true
-        },
-        {
-          "league": "Serie A",
           "home": "Frosinone",
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
           "away": "Parma",
@@ -404,6 +387,23 @@
             "61' Tomas Bobcek (Goal)",
             "71' Nesta Elphege (Yellow Card)",
             "79' Tomas Bobcek (Goal)"
+          ],
+          "live": false
+        },
+        {
+          "league": "Serie A",
+          "home": "Torino",
+          "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+          "away": "Lazio",
+          "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+          "score": "1 - 2",
+          "detail": "FT",
+          "venue": "Stadio Olimpico Grande Torino",
+          "events": [
+            "42' Oliver Provstgaard (Goal - Header)",
+            "44' Gustav Isaksen (Goal)",
+            "62' Ché Adams (Goal - Header)",
+            "87' Saúl Coco (Yellow Card)"
           ],
           "live": false
         },
@@ -431,7 +431,7 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "2 - 2",
-          "detail": "CANLI 63'",
+          "detail": "CANLI 64'",
           "venue": "MHPArena",
           "events": [
             "42' Grischa Prömel (Goal)",
