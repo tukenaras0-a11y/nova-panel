@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 23:47",
+  "updated_at": "28.11.2026 23:48",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -302,7 +302,8 @@
           "detail": "CANLI 45'+1'",
           "venue": "Santiago Bernabéu",
           "events": [
-            "22' Toni Martínez (Goal)"
+            "22' Toni Martínez (Goal)",
+            "45'+1'  (Yellow Card)"
           ],
           "live": true
         },
