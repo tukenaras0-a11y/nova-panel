@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 18:40",
+  "updated_at": "28.11.2026 18:49",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -94,15 +94,15 @@
         {
           "home": "Leeds",
           "away": "Coventry",
-          "score": "0 - 0",
-          "detail": "40'",
+          "score": "2 - 0",
+          "detail": "CANLI 45'+2'",
           "live": true
         },
         {
           "home": "Man Utd",
           "away": "Brentford",
           "score": "0 - 2",
-          "detail": "41'",
+          "detail": "CANLI 45'+3'",
           "live": true
         },
         {
@@ -118,18 +118,18 @@
       "name": "La Liga",
       "matches": [
         {
+          "home": "Málaga",
+          "away": "Athletic",
+          "score": "0 - 1",
+          "detail": "CANLI 34'",
+          "live": true
+        },
+        {
           "home": "Betis",
           "away": "Rayo",
           "score": "0 - 1",
           "detail": "FT",
           "live": false
-        },
-        {
-          "home": "Málaga",
-          "away": "Athletic",
-          "score": "0 - 0",
-          "detail": "25'",
-          "live": true
         },
         {
           "home": "Elche",
@@ -154,7 +154,7 @@
           "home": "Frosinone",
           "away": "Parma",
           "score": "3 - 0",
-          "detail": "83'",
+          "detail": "CANLI 90'+1'",
           "live": true
         },
         {
@@ -180,28 +180,28 @@
           "home": "Cologne",
           "away": "Elversberg",
           "score": "3 - 0",
-          "detail": "53'",
+          "detail": "CANLI 61'",
           "live": true
         },
         {
           "home": "Hamburg",
           "away": "Bayern",
           "score": "0 - 0",
-          "detail": "52'",
+          "detail": "CANLI 61'",
           "live": true
         },
         {
           "home": "Mainz",
           "away": "Union Berlin",
           "score": "0 - 1",
-          "detail": "51'",
+          "detail": "CANLI 60'",
           "live": true
         },
         {
           "home": "Paderborn",
           "away": "Schalke",
-          "score": "3 - 0",
-          "detail": "50'",
+          "score": "5 - 0",
+          "detail": "CANLI 58'",
           "live": true
         },
         {
