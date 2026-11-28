@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Canli Skorlari Cek ve 4 Buyukler Uyarisi Uret
+      - name: Canli Skor Logo ve Detay Cek
         run: |
           python3 - << 'EOF'
           import json, urllib.request
@@ -48,8 +48,12 @@ jobs:
                       if len(cs) >= 2:
                           home = next((c for c in cs if c.get("homeAway") == "home"), next(iter(cs), {}))
                           away = next((c for c in cs if c.get("homeAway") == "away"), next(reversed(cs), {}))
-                          h_name = home.get("team", {}).get("shortDisplayName", "Ev")
-                          a_name = away.get("team", {}).get("shortDisplayName", "Dep")
+                          h_team = home.get("team", {})
+                          a_team = away.get("team", {})
+                          h_name = h_team.get("shortDisplayName", "Ev")
+                          a_name = a_team.get("shortDisplayName", "Dep")
+                          h_logo = h_team.get("logo", "")
+                          a_logo = a_team.get("logo", "")
                           st = ev.get("status", {})
                           st_type = st.get("type", {})
                           state = st_type.get("state", "")
@@ -58,11 +62,24 @@ jobs:
                           clock = st.get("displayClock", "")
                           score = "VS" if is_pre else f"{home.get('score','0')} - {away.get('score','0')}"
                           detail = f"CANLI {clock}" if is_live else st_type.get("shortDetail", st_type.get("detail", ""))
+                          venue = comp.get("venue", {}).get("fullName", "")
+                          events_txt = []
+                          for d in comp.get("details", []):
+                              clk = d.get("clock", {}).get("displayValue", "")
+                              typ = d.get("type", {}).get("text", "")
+                              ath = next(iter(d.get("athletesInvolved", [])), {}).get("displayName", "")
+                              if ath or typ:
+                                  events_txt.append(f"{clk} {ath} ({typ})".strip())
                           matches.append({
+                              "league": title,
                               "home": h_name,
+                              "homeLogo": h_logo,
                               "away": a_name,
+                              "awayLogo": a_logo,
                               "score": score,
                               "detail": detail,
+                              "venue": venue,
+                              "events": events_txt,
                               "live": is_live
                           })
                           full_txt = f"{h_name} {a_name}".lower()
@@ -93,10 +110,15 @@ jobs:
                           as_ = ev.get("intAwayScore")
                           has_score = (hs is not None and str(hs) != "")
                           matches.append({
+                              "league": title,
                               "home": ev.get("strHomeTeam", "Ev"),
+                              "homeLogo": ev.get("strHomeTeamBadge", ""),
                               "away": ev.get("strAwayTeam", "Dep"),
+                              "awayLogo": ev.get("strAwayTeamBadge", ""),
                               "score": f"{hs} - {as_}" if has_score else "VS",
                               "detail": ev.get("dateEvent", "MS"),
+                              "venue": ev.get("strVenue", ""),
+                              "events": [],
                               "live": False
                           })
                   except Exception:
@@ -125,5 +147,5 @@ jobs:
           git config user.name "NovaBot"
           git config user.email "bot@novaiptv.local"
           git add nova_scores.json nova_panel.json
-          git commit -m "Canli skor ve otomatik bildirim guncellendi" || exit 0
+          git commit -m "Skor logo ve mac detaylari guncellendi" || exit 0
           git push
