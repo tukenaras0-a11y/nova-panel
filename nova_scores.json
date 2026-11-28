@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:30",
+  "updated_at": "28.11.2026 20:31",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -8,7 +8,7 @@
           "home": "Gaziantep",
           "away": "Amed SFK",
           "score": "0 - 2",
-          "detail": "CANLI 74'",
+          "detail": "CANLI 75'",
           "live": true
         },
         {
@@ -92,6 +92,13 @@
       "name": "Premier Lig",
       "matches": [
         {
+          "home": "Ipswich",
+          "away": "Aston Villa",
+          "score": "0 - 0",
+          "detail": "CANLI 1'",
+          "live": true
+        },
+        {
           "home": "Leeds",
           "away": "Coventry",
           "score": "3 - 0",
@@ -103,13 +110,6 @@
           "away": "Brentford",
           "score": "0 - 4",
           "detail": "FT",
-          "live": false
-        },
-        {
-          "home": "Ipswich",
-          "away": "Aston Villa",
-          "score": "VS",
-          "detail": "Scheduled",
           "live": false
         }
       ]
@@ -177,6 +177,13 @@
       "name": "Bundesliga",
       "matches": [
         {
+          "home": "Stuttgart",
+          "away": "Frankfurt",
+          "score": "0 - 0",
+          "detail": "CANLI 1'",
+          "live": true
+        },
+        {
           "home": "Cologne",
           "away": "Elversberg",
           "score": "5 - 0",
@@ -202,13 +209,6 @@
           "away": "Schalke",
           "score": "8 - 1",
           "detail": "FT",
-          "live": false
-        },
-        {
-          "home": "Stuttgart",
-          "away": "Frankfurt",
-          "score": "VS",
-          "detail": "Scheduled",
           "live": false
         }
       ]
