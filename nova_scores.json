@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 23:04",
+  "updated_at": "28.11.2026 23:05",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "0 - 0",
-          "detail": "CANLI 3'",
+          "detail": "CANLI 4'",
           "venue": "Santiago Bernabéu",
           "events": [],
           "live": true
@@ -384,9 +384,11 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "0 - 0",
-          "detail": "CANLI 17'",
+          "detail": "CANLI 18'",
           "venue": "San Siro",
-          "events": [],
+          "events": [
+            "17' Nicolò Barella (Yellow Card)"
+          ],
           "live": true
         },
         {
