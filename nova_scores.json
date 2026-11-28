@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.11.2026 00:03",
+  "updated_at": "29.11.2026 00:04",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -387,14 +387,15 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "4 - 0",
-          "detail": "CANLI 56'",
+          "detail": "CANLI 57'",
           "venue": "San Siro",
           "events": [
             "17' Nicolò Barella (Yellow Card)",
             "28' Carlos Augusto (Yellow Card)",
             "29' Lautaro Martínez (Goal)",
             "40' Marcus Thuram (Goal)",
-            "45'+3' Petar Sucic (Penalty - Scored)"
+            "45'+3' Petar Sucic (Penalty - Scored)",
+            "54' Marcus Thuram (Goal)"
           ],
           "live": true
         },
