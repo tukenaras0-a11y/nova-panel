@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.11.2026 00:37",
+  "updated_at": "29.11.2026 00:38",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -299,7 +299,7 @@
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "1 - 2",
-          "detail": "CANLI 78'",
+          "detail": "CANLI 79'",
           "venue": "Santiago Bernabéu",
           "events": [
             "22' Toni Martínez (Goal)",
@@ -309,7 +309,8 @@
             "74' Antonio Sivera (Yellow Card)",
             "74' Ibrahima Konaté (Yellow Card)",
             "74' Jude Bellingham (Yellow Card)",
-            "75' Selu Diallo (Yellow Card)"
+            "75' Selu Diallo (Yellow Card)",
+            "78' Jonny (Yellow Card)"
           ],
           "live": true
         },
@@ -393,7 +394,7 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "4 - 0",
-          "detail": "CANLI 90'",
+          "detail": "CANLI 90'+1'",
           "venue": "San Siro",
           "events": [
             "17' Nicolò Barella (Yellow Card)",
