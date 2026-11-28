@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:16",
+  "updated_at": "28.11.2026 21:17",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -231,7 +231,7 @@
           "away": "Aston Villa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "score": "1 - 2",
-          "detail": "CANLI 45'+1'",
+          "detail": "CANLI 45'+2'",
           "venue": "Portman Road",
           "events": [
             "1' Boubacar Kamara (Yellow Card)",
@@ -294,7 +294,7 @@
           "away": "Atlético",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "score": "1 - 3",
-          "detail": "CANLI 45'",
+          "detail": "CANLI 45'+1'",
           "venue": "Estadio Martínez Valero",
           "events": [
             "5' Alejandro Grimaldo (Penalty - Scored)",
@@ -373,7 +373,7 @@
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
           "score": "0 - 2",
-          "detail": "CANLI 57'",
+          "detail": "CANLI 58'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
@@ -425,10 +425,11 @@
           "away": "Frankfurt",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
           "score": "1 - 0",
-          "detail": "CANLI 45'+1'",
+          "detail": "CANLI 45'+2'",
           "venue": "MHPArena",
           "events": [
-            "42' Grischa Prömel (Goal)"
+            "42' Grischa Prömel (Goal)",
+            "45' Luca Jaquez (Yellow Card)"
           ],
           "live": true
         },
