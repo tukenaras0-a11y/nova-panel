@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:05",
+  "updated_at": "28.11.2026 20:06",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -7,8 +7,8 @@
         {
           "home": "Gaziantep",
           "away": "Amed SFK",
-          "score": "0 - 1",
-          "detail": "CANLI 49'",
+          "score": "0 - 2",
+          "detail": "CANLI 50'",
           "live": true
         },
         {
@@ -121,7 +121,7 @@
           "home": "Málaga",
           "away": "Athletic",
           "score": "3 - 4",
-          "detail": "CANLI 89'",
+          "detail": "CANLI 90'",
           "live": true
         },
         {
