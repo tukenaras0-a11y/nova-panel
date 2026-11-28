@@ -1,0 +1,25 @@
+{
+  "leagues": [
+    {
+      "name": "Süper Lig",
+      "matches": [
+        {"home": "Galatasaray", "away": "Fenerbahçe", "score": "2 - 1", "detail": "MS", "live": false},
+        {"home": "Beşiktaş", "away": "Trabzonspor", "score": "1 - 1", "detail": "MS", "live": false},
+        {"home": "Başakşehir", "away": "Samsunspor", "score": "VS", "detail": "20:00", "live": false}
+      ]
+    },
+    {
+      "name": "Şampiyonlar Ligi",
+      "matches": [
+        {"home": "Real Madrid", "away": "Manchester City", "score": "3 - 2", "detail": "MS", "live": false},
+        {"home": "Bayern Münih", "away": "Barcelona", "score": "2 - 2", "detail": "MS", "live": false}
+      ]
+    },
+    {
+      "name": "Premier Lig",
+      "matches": [
+        {"home": "Arsenal", "away": "Chelsea", "score": "2 - 0", "detail": "MS", "live": false}
+      ]
+    }
+  ]
+}
