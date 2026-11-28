@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.11.2026 00:28",
+  "updated_at": "29.11.2026 00:29",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -298,13 +298,14 @@
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
           "away": "Alavés",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-          "score": "0 - 2",
-          "detail": "CANLI 69'",
+          "score": "1 - 2",
+          "detail": "CANLI 70'",
           "venue": "Santiago Bernabéu",
           "events": [
             "22' Toni Martínez (Goal)",
             "45'+1'  (Yellow Card)",
-            "61' Ángel Pérez (Goal)"
+            "61' Ángel Pérez (Goal)",
+            "69' Kylian Mbappé (Goal)"
           ],
           "live": true
         },
@@ -388,7 +389,7 @@
           "away": "Genoa",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
           "score": "4 - 0",
-          "detail": "CANLI 81'",
+          "detail": "CANLI 82'",
           "venue": "San Siro",
           "events": [
             "17' Nicolò Barella (Yellow Card)",
