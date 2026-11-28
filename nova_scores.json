@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 21:22",
+  "updated_at": "28.11.2026 21:23",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -372,12 +372,13 @@
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
           "away": "Lazio",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-          "score": "0 - 2",
-          "detail": "CANLI 62'",
+          "score": "1 - 2",
+          "detail": "CANLI 63'",
           "venue": "Stadio Olimpico Grande Torino",
           "events": [
             "42' Oliver Provstgaard (Goal - Header)",
-            "44' Gustav Isaksen (Goal)"
+            "44' Gustav Isaksen (Goal)",
+            "62' Ché Adams (Goal - Header)"
           ],
           "live": true
         },
