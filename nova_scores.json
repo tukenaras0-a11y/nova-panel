@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11.2026 20:02",
+  "updated_at": "28.11.2026 20:03",
   "leagues": [
     {
       "name": "Süper Lig",
@@ -7,8 +7,8 @@
         {
           "home": "Gaziantep",
           "away": "Amed SFK",
-          "score": "0 - 0",
-          "detail": "CANLI 46'",
+          "score": "0 - 1",
+          "detail": "CANLI 47'",
           "live": true
         },
         {
@@ -121,7 +121,7 @@
           "home": "Málaga",
           "away": "Athletic",
           "score": "3 - 4",
-          "detail": "CANLI 86'",
+          "detail": "CANLI 87'",
           "live": true
         },
         {
@@ -151,17 +151,17 @@
       "name": "Serie A",
       "matches": [
         {
+          "home": "Torino",
+          "away": "Lazio",
+          "score": "0 - 0",
+          "detail": "CANLI 2'",
+          "live": true
+        },
+        {
           "home": "Frosinone",
           "away": "Parma",
           "score": "3 - 0",
           "detail": "FT",
-          "live": false
-        },
-        {
-          "home": "Torino",
-          "away": "Lazio",
-          "score": "VS",
-          "detail": "Scheduled",
           "live": false
         },
         {
